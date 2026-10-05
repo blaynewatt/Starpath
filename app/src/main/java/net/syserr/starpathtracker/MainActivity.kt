@@ -16,8 +16,11 @@ class MainActivity : ComponentActivity() {
   override fun onCreate(savedInstanceState: Bundle?) {
     super.onCreate(savedInstanceState)
 
-    // Register device ID for instant test ads during development
-    val testDeviceIds = listOf("87B421FE8D2371596D41ED0EB416E026")
+    // Register device IDs for instant test ads during development
+    val testDeviceIds = listOf(
+        "87B421FE8D2371596D41ED0EB416E026",
+        "9FBD1BC00852C70B83FBABCD09389E08"
+    )
     val configuration = RequestConfiguration.Builder().setTestDeviceIds(testDeviceIds).build()
     MobileAds.setRequestConfiguration(configuration)
 

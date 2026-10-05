@@ -20,7 +20,7 @@
 
 The application requests network permissions (`android.permission.INTERNET` and `android.permission.ACCESS_NETWORK_STATE`) for:
 
-- **Public Guide Retrieval**: Fetching publicly accessible Disney Dreamlight Valley Star Path guide tables from IGN (`https://www.ign.com`).
+- **Public Guide Retrieval**: Fetching publicly accessible Dreamlight Valley Star Path guide tables from IGN (`https://www.ign.com`).
 - **Banner Advertising**: Requesting and rendering banner ads via the Google Mobile Ads SDK.
 
 ---

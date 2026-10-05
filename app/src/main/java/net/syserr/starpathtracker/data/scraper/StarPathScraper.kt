@@ -94,7 +94,7 @@ object StarPathScraper {
 
             if (duties.isEmpty()) {
                 return@withContext Result.failure(
-                    IllegalStateException("Could not find any Star Path duties on this page. Please ensure this is a Disney Dreamlight Valley Star Path guide.")
+                    IllegalStateException("Could not find any Star Path duties on this page. Please ensure this is a Dreamlight Valley Star Path guide.")
                 )
             }
 

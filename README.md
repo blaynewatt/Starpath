@@ -1,6 +1,6 @@
-# Star Path Tracker - Disney Dreamlight Valley
+# Star Path Tracker - Dreamlight Valley
 
-An Android checklist application designed for Disney Dreamlight Valley players to track their Star Path duties and routine weekly duties.
+An Android checklist application designed for Dreamlight Valley players to track their Star Path duties and routine weekly duties.
 
 ![Android](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-2.3.20-7F52FF?logo=kotlin&logoColor=white)

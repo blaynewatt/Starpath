@@ -347,7 +347,7 @@ fun StarPathTopBar(
                         color = TextPrimary
                     )
                     Text(
-                        text = "Disney Dreamlight Valley",
+                        text = "Dreamlight Valley",
                         fontSize = 11.sp,
                         color = DreamlightCyan
                     )

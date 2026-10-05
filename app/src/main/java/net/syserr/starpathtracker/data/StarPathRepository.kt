@@ -33,7 +33,7 @@ class StarPathRepository(private val context: Context) {
             StarPathEntry("Astronomer's Journey", "https://www.ign.com/wikis/disney-dreamlight-valley/All_Astronomer%27s_Journey_Star_Path_Duties_and_Routine_Duties"),
             StarPathEntry("Haunted Holiday", "https://www.ign.com/wikis/disney-dreamlight-valley/All_Haunted_Holiday_Star_Path_Duties"),
             StarPathEntry("Lovely Monsters", "https://www.ign.com/wikis/disney-dreamlight-valley/Lovely_Monsters_Star_Path_Duties"),
-            StarPathEntry("A Day At Disney", "https://www.ign.com/wikis/disney-dreamlight-valley/All_A_Day_At_Disney_Star_Path_Duties"),
+            StarPathEntry("A Day In The Parks", "https://www.ign.com/wikis/disney-dreamlight-valley/All_A_Day_At_Disney_Star_Path_Duties"),
             StarPathEntry("Majesty and Magnolias", "https://www.ign.com/wikis/disney-dreamlight-valley/All_Majesty_and_Magnolias_Star_Path_Duties"),
             StarPathEntry("Dapper Delights", "https://www.ign.com/wikis/disney-dreamlight-valley/Dapper_Delights_Star_Path_Duties"),
             StarPathEntry("Night Show", "https://www.ign.com/wikis/disney-dreamlight-valley/All_Night_Show_Star_Path_Duties"),

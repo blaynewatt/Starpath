@@ -2,7 +2,7 @@ package net.syserr.starpathtracker.theme
 
 import androidx.compose.ui.graphics.Color
 
-// Disney Dreamlight Valley Star Path Palette
+// Dreamlight Valley Star Path Palette
 val CelestialBackground = Color(0xFF0C1021)
 val CelestialSurface = Color(0xFF131B33)
 val CelestialCard = Color(0xFF1A2444)

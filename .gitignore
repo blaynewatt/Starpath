@@ -11,4 +11,6 @@
 local.properties
 screen_*.png
 *.hprof
-
+*.jks
+*.keystore
+keystore.properties

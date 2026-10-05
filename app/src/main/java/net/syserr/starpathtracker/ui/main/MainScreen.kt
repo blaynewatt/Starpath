@@ -39,6 +39,7 @@ import androidx.compose.material.icons.filled.DoneAll
 import androidx.compose.material.icons.filled.ExpandLess
 import androidx.compose.material.icons.filled.ExpandMore
 import androidx.compose.material.icons.filled.FilterList
+import androidx.compose.material.icons.filled.Info
 import androidx.compose.material.icons.filled.Lightbulb
 import androidx.compose.material.icons.filled.MoreVert
 import androidx.compose.material.icons.filled.Refresh
@@ -83,6 +84,7 @@ import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -93,6 +95,7 @@ import androidx.compose.ui.graphics.SolidColor
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.text.style.TextDecoration
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
@@ -132,6 +135,7 @@ fun MainScreen(
 ) {
     val state by viewModel.uiState.collectAsStateWithLifecycle()
     val snackbarHostState = remember { SnackbarHostState() }
+    var showInfoDialog by rememberSaveable { mutableStateOf(false) }
 
     LaunchedEffect(state.errorMessage) {
         state.errorMessage?.let { error ->
@@ -150,6 +154,7 @@ fun MainScreen(
                 hideCompleted = state.hideCompleted,
                 onToggleHideCompleted = { viewModel.toggleHideCompleted() },
                 onRefreshClick = { viewModel.refreshFromWeb() },
+                onInfoClick = { showInfoDialog = true },
                 onResetClick = { viewModel.openResetDialog() },
                 onMarkAllClick = { viewModel.markAllDuties() }
             )
@@ -309,6 +314,70 @@ fun MainScreen(
             }
         )
     }
+
+    // About / Information Dialog
+    if (showInfoDialog) {
+        AlertDialog(
+            onDismissRequest = { showInfoDialog = false },
+            containerColor = CelestialCard,
+            icon = {
+                Icon(
+                    imageVector = Icons.Default.Info,
+                    contentDescription = null,
+                    tint = DreamlightCyan,
+                    modifier = Modifier.size(32.dp)
+                )
+            },
+            title = {
+                Text(
+                    text = "About Star Path Tracker",
+                    color = TextPrimary,
+                    fontWeight = FontWeight.Bold,
+                    fontSize = 18.sp
+                )
+            },
+            text = {
+                Column(
+                    verticalArrangement = Arrangement.spacedBy(14.dp)
+                ) {
+                    Text(
+                        text = "Star Path duties and guides are extracted from publicly accessible guides on IGN (ign.com).",
+                        color = TextSecondary,
+                        fontSize = 14.sp,
+                        lineHeight = 20.sp
+                    )
+                    Text(
+                        text = "This application is an independent fan utility and is in no way associated with, authorized, maintained, sponsored, or endorsed by Disney, Gameloft, or any of their affiliates.",
+                        color = TextSecondary,
+                        fontSize = 13.sp,
+                        lineHeight = 18.sp
+                    )
+                    Box(
+                        modifier = Modifier
+                            .fillMaxWidth()
+                            .height(1.dp)
+                            .background(CelestialCardBorder)
+                    )
+                    Text(
+                        text = "For Amy \u2764\uFE0F",
+                        color = StarlightGold,
+                        fontSize = 15.sp,
+                        fontWeight = FontWeight.SemiBold,
+                        modifier = Modifier.fillMaxWidth(),
+                        textAlign = TextAlign.Center
+                    )
+                }
+            },
+            confirmButton = {
+                Button(
+                    onClick = { showInfoDialog = false },
+                    colors = ButtonDefaults.buttonColors(containerColor = DreamlightCyan)
+                ) {
+                    Text("OK", color = CelestialBackground, fontWeight = FontWeight.Bold)
+                }
+            }
+        )
+    }
 }
 
 @OptIn(ExperimentalMaterial3Api::class)
@@ -318,6 +387,7 @@ fun StarPathTopBar(
     hideCompleted: Boolean,
     onToggleHideCompleted: () -> Unit,
     onRefreshClick: () -> Unit,
+    onInfoClick: () -> Unit,
     onResetClick: () -> Unit,
     onMarkAllClick: () -> Unit
 ) {
@@ -379,6 +449,15 @@ fun StarPathTopBar(
                         tint = StarlightGold
                     )
                 }
+            }
+
+            // Info button (after refresh, before menu icon)
+            IconButton(onClick = onInfoClick) {
+                Icon(
+                    imageVector = Icons.Default.Info,
+                    contentDescription = "About & Information",
+                    tint = DreamlightCyan
+                )
             }
 
             // More Options Dropdown

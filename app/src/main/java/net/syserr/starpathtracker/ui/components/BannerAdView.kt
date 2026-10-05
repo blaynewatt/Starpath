@@ -16,8 +16,7 @@ import net.syserr.starpathtracker.theme.CelestialSurface
 @Composable
 fun BannerAdView(
     modifier: Modifier = Modifier,
-    // Google sample banner ad unit ID (safe for development and testing)
-    adUnitId: String = "ca-app-pub-3940256099942544/6300978111"
+    adUnitId: String = "ca-app-pub-7985559559037493/6160303912"
 ) {
     Box(
         modifier = modifier

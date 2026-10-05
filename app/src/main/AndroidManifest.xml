@@ -22,10 +22,10 @@
             </intent-filter>
         </activity>
 
-        <!-- Google AdMob Application ID (Google test app ID for development) -->
+        <!-- Google AdMob Application ID -->
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-3940256099942544~3347511713"/>
+            android:value="ca-app-pub-7985559559037493~6339347449"/>
     </application>
 
 </manifest>

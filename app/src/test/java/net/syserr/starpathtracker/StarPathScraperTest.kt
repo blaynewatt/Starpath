@@ -69,4 +69,30 @@ class StarPathScraperTest {
         val listId = StarPathScraper.generateListId("https://www.ign.com/wikis/disney-dreamlight-valley/All_Haunting_Elegance_Star_Path_Duties_and_Routine_Duties")
         assertEquals("all_haunting_elegance_star_path_duties_and_routine_duties", listId)
     }
+
+    @Test
+    fun testCleanPathTitleRemovesPrefixesAndSuffixes() {
+        assertEquals("Lovely Monsters", StarPathScraper.cleanPathTitle("All Lovely Monsters Star Path Duties"))
+        assertEquals("Lovely Monsters", StarPathScraper.cleanPathTitle("Lovely Monsters Star Path Duties"))
+        assertEquals("Lovely Monsters", StarPathScraper.cleanPathTitle("Lovely Monsters"))
+        assertEquals("Haunting Elegance", StarPathScraper.cleanPathTitle("All Haunting Elegance Star Path Duties and Routine Duties"))
+        assertEquals("Haunting Elegance", StarPathScraper.cleanPathTitle("Haunting Elegance Star Path"))
+        assertEquals("Pop City", StarPathScraper.cleanPathTitle("All Pop City Star Path Duties and Routine Duties"))
+        assertEquals("Godly Glamor", StarPathScraper.cleanPathTitle("All Godly Glamor Star Path Duties and Routine Duties"))
+        assertEquals("Astronomer's Journey", StarPathScraper.cleanPathTitle("All Astronomer's Journey Star Path Duties and Routine Duties"))
+        assertEquals("Dapper Delights", StarPathScraper.cleanPathTitle("Dapper Delights Star Path Duties"))
+        assertEquals("Haunted Holiday", StarPathScraper.cleanPathTitle("All Haunted Holiday Star Path Duties"))
+    }
+
+    @Test
+    fun testNormalizeUrl() {
+        assertEquals(
+            "https://www.ign.com/wikis/disney-dreamlight-valley/Lovely_Monsters_Star_Path_Duties",
+            StarPathScraper.normalizeUrl("http://www.ign.com/wikis/disney-dreamlight-valley/Lovely_Monsters_Star_Path_Duties#section")
+        )
+        assertEquals(
+            "https://www.ign.com/wikis/disney-dreamlight-valley/Lovely_Monsters_Star_Path_Duties",
+            StarPathScraper.normalizeUrl("https://www.ign.com/wikis/disney-dreamlight-valley/Lovely_Monsters_Star_Path_Duties/")
+        )
+    }
 }

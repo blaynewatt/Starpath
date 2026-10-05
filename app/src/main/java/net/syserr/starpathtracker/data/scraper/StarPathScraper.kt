@@ -17,6 +17,30 @@ object StarPathScraper {
     private const val USER_AGENT =
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
+    fun normalizeUrl(url: String): String {
+        return url.trim()
+            .replace("http://", "https://")
+            .substringBefore("#")
+            .substringBefore("?")
+            .trimEnd('/')
+    }
+
+    fun cleanPathTitle(raw: String): String {
+        return raw
+            .replace(Regex("(?i) - Disney Dreamlight Valley.*"), "")
+            .replace(Regex("(?i)Disney Dreamlight Valley:?\\s*"), "")
+            .replace(Regex("(?i)^\\s*All\\s+"), "")
+            .replace(Regex("(?i)\\s*Star Path Duties and Routine Duties"), "")
+            .replace(Regex("(?i)\\s*Star Path Duties and Routine"), "")
+            .replace(Regex("(?i)\\s*Star Path Duties"), "")
+            .replace(Regex("(?i)\\s*Duties and Routine Duties"), "")
+            .replace(Regex("(?i)\\s*Duties and Routine"), "")
+            .replace(Regex("(?i)\\s*Star Path"), "")
+            .replace(Regex("(?i)\\s*Duties"), "")
+            .replace(Regex("\\s+"), " ")
+            .trim()
+    }
+
     suspend fun scrapeStarPathIndex(hubUrl: String = STAR_PATH_HUB_URL): Result<List<net.syserr.starpathtracker.data.model.StarPathEntry>> =
         withContext(Dispatchers.IO) {
             try {
@@ -29,14 +53,19 @@ object StarPathScraper {
                 val links = doc.select("a[href]")
                 val entries = mutableListOf<net.syserr.starpathtracker.data.model.StarPathEntry>()
                 val seenUrls = mutableSetOf<String>()
+                val seenTitles = mutableSetOf<String>()
 
                 for (link in links) {
                     val rawText = link.text().trim()
                     val href = link.attr("abs:href").trim()
+                    val normUrl = normalizeUrl(href)
 
                     if (rawText.contains("Star Path Duties", ignoreCase = true) || href.contains("Star_Path_Duties", ignoreCase = true)) {
-                        if (href.isNotEmpty() && seenUrls.add(href)) {
-                            val displayTitle = if (rawText.isNotEmpty()) cleanTitle(rawText) else cleanTitle(href.substringAfterLast("/").replace("_", " "))
+                        val rawCandidate = if (rawText.isNotEmpty()) rawText else href.substringAfterLast("/").replace("_", " ")
+                        val displayTitle = cleanPathTitle(rawCandidate)
+                        val titleKey = displayTitle.lowercase(Locale.ROOT)
+
+                        if (normUrl.isNotEmpty() && seenUrls.add(normUrl) && seenTitles.add(titleKey)) {
                             entries.add(net.syserr.starpathtracker.data.model.StarPathEntry(title = displayTitle, url = href))
                         }
                     }
@@ -88,23 +117,16 @@ object StarPathScraper {
         // Try h1 first
         val h1 = doc.selectFirst("h1")?.text()?.trim()
         if (!h1.isNullOrEmpty()) {
-            return cleanTitle(h1)
+            return cleanPathTitle(h1)
         }
 
         // Try title tag
         val titleTag = doc.title().trim()
         if (titleTag.isNotEmpty()) {
-            return cleanTitle(titleTag)
+            return cleanPathTitle(titleTag)
         }
 
         return "Star Path Duties"
-    }
-
-    private fun cleanTitle(raw: String): String {
-        return raw.replace(Regex("(?i) - Disney Dreamlight Valley.*"), "")
-            .replace(Regex("(?i)Disney Dreamlight Valley:?\\s*"), "")
-            .replace(Regex("\\s+"), " ")
-            .trim()
     }
 
     private fun parseDuties(doc: Document, sourceUrl: String): List<StarPathDuty> {

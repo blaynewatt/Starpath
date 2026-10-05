@@ -105,6 +105,7 @@ import net.syserr.starpathtracker.data.StarPathRepository
 import net.syserr.starpathtracker.data.model.StarPathDuty
 import net.syserr.starpathtracker.data.model.StarPathEntry
 import net.syserr.starpathtracker.data.model.StarPathList
+import net.syserr.starpathtracker.data.scraper.StarPathScraper
 import net.syserr.starpathtracker.theme.CelestialBackground
 import net.syserr.starpathtracker.theme.CelestialCard
 import net.syserr.starpathtracker.theme.CelestialCardBorder
@@ -471,7 +472,7 @@ fun StarPathDropdownSelector(
                     )
                     Spacer(modifier = Modifier.height(2.dp))
                     Text(
-                        text = selectedTitle,
+                        text = StarPathScraper.cleanPathTitle(selectedTitle),
                         fontSize = 14.sp,
                         fontWeight = FontWeight.Bold,
                         color = TextPrimary,
@@ -500,7 +501,7 @@ fun StarPathDropdownSelector(
                 DropdownMenuItem(
                     text = {
                         Text(
-                            text = entry.title,
+                            text = StarPathScraper.cleanPathTitle(entry.title),
                             fontSize = 14.sp,
                             fontWeight = if (isSelected) FontWeight.Bold else FontWeight.Normal,
                             color = if (isSelected) StarlightGold else TextPrimary

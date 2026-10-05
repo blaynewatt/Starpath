@@ -56,26 +56,42 @@ class StarPathRepository(private val context: Context) {
         val PRESETS = listOf(
             StarPathPreset(
                 id = "haunting_elegance",
-                title = "Haunting Elegance Star Path",
+                title = "Haunting Elegance",
                 url = DEFAULT_URL,
                 description = "Season of Scares update (Oogie Boogie, Jack Skellington)",
                 assetFileName = "haunting_elegance.json"
             ),
             StarPathPreset(
                 id = "godly_glamor",
-                title = "Godly Glamor Star Path",
+                title = "Godly Glamor",
                 url = "https://www.ign.com/wikis/disney-dreamlight-valley/All_Godly_Glamor_Star_Path_Duties_and_Routine_Duties",
                 description = "Olympus Fashion & Mediterranean Specialties",
                 assetFileName = "godly_glamor.json"
             ),
             StarPathPreset(
                 id = "pop_city",
-                title = "Pop City Star Path",
+                title = "Pop City",
                 url = "https://www.ign.com/wikis/disney-dreamlight-valley/All_Pop_City_Star_Path_Duties_and_Routine_Duties",
                 description = "Candy Rush & Vanellope Neon City",
                 assetFileName = "pop_city.json"
             )
         )
+        fun deduplicateAndCleanEntries(entries: List<StarPathEntry>): List<StarPathEntry> {
+            val seenUrls = mutableSetOf<String>()
+            val seenTitles = mutableSetOf<String>()
+            val result = mutableListOf<StarPathEntry>()
+
+            for (entry in entries) {
+                val cleanTitle = StarPathScraper.cleanPathTitle(entry.title)
+                val normUrl = StarPathScraper.normalizeUrl(entry.url)
+                val titleKey = cleanTitle.lowercase(java.util.Locale.ROOT)
+
+                if (normUrl.isNotEmpty() && seenUrls.add(normUrl) && seenTitles.add(titleKey)) {
+                    result.add(entry.copy(title = cleanTitle, url = entry.url.trim()))
+                }
+            }
+            return result
+        }
     }
 
     private val _starPathEntries = MutableStateFlow<List<StarPathEntry>>(DEFAULT_ENTRIES)
@@ -110,7 +126,9 @@ class StarPathRepository(private val context: Context) {
             try {
                 val parsed = json.decodeFromString<List<StarPathEntry>>(cached)
                 if (parsed.isNotEmpty()) {
-                    _starPathEntries.value = parsed
+                    val cleaned = deduplicateAndCleanEntries(parsed)
+                    _starPathEntries.value = cleaned
+                    prefs.edit().putString(KEY_ENTRIES_CACHE, json.encodeToString(cleaned)).apply()
                 }
             } catch (_: Exception) {}
         }
@@ -121,8 +139,9 @@ class StarPathRepository(private val context: Context) {
         if (result.isSuccess) {
             val list = result.getOrThrow()
             if (list.isNotEmpty()) {
-                _starPathEntries.value = list
-                prefs.edit().putString(KEY_ENTRIES_CACHE, json.encodeToString(list)).apply()
+                val cleaned = deduplicateAndCleanEntries(list)
+                _starPathEntries.value = cleaned
+                prefs.edit().putString(KEY_ENTRIES_CACHE, json.encodeToString(cleaned)).apply()
             }
         }
         result
@@ -212,6 +231,8 @@ class StarPathRepository(private val context: Context) {
                     )
                 }
             }
+
+            loadedList = loadedList.copy(title = StarPathScraper.cleanPathTitle(loadedList.title))
 
             // Always update persistent checked status with the merged list
             saveCheckedStatus(listId, loadedList.duties.filter { d -> d.isCompleted })

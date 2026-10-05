@@ -89,15 +89,16 @@
     <p><strong>Star Path Tracker does not collect, store, or transmit any personally identifiable information (PII).</strong></p>
     <ul>
       <li><strong>No Account Required:</strong> You do not need to log in or register.</li>
-      <li><strong>No Analytics or Ads:</strong> The app does not include third-party tracking, analytics, or advertising SDKs.</li>
+      <li><strong>No Personal Data Collected by App Developer:</strong> We do not collect names, email addresses, phone numbers, location data, or contact lists.</li>
+      <li><strong>Third-Party Advertising (Google AdMob):</strong> The application displays banner advertisements served by Google AdMob. Google AdMob may process device identifiers, general location/IP address, and app interaction data to deliver non-personalized or personalized ads, prevent fraud, and monitor ad performance in accordance with <a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener">Google's Privacy &amp; Terms</a>.</li>
       <li><strong>Local Storage:</strong> Your duty checklists, completion status, and cached guide data are stored strictly on your local device (via private <code>SharedPreferences</code> and internal application storage). No personal data is ever transmitted to remote servers.</li>
     </ul>
 
     <h2>2. Network Usage and Permissions</h2>
-    <p>The app requests the <code>android.permission.INTERNET</code> permission solely to:</p>
+    <p>The app requests the <code>android.permission.INTERNET</code> and <code>android.permission.ACCESS_NETWORK_STATE</code> permissions for:</p>
     <ul>
-      <li>Fetch public Disney Dreamlight Valley Star Path guide tables and duty lists from IGN (<code>https://www.ign.com</code>).</li>
-      <li>No personal data, telemetry, or query information is transmitted during these requests.</li>
+      <li>Fetching public Disney Dreamlight Valley Star Path guide tables and duty lists from IGN (<code>https://www.ign.com</code>).</li>
+      <li>Serving banner advertisements via the Google Mobile Ads SDK.</li>
     </ul>
 
     <h2>3. Children's Privacy</h2>

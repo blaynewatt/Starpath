@@ -106,6 +106,7 @@ import net.syserr.starpathtracker.data.model.StarPathDuty
 import net.syserr.starpathtracker.data.model.StarPathEntry
 import net.syserr.starpathtracker.data.model.StarPathList
 import net.syserr.starpathtracker.data.scraper.StarPathScraper
+import net.syserr.starpathtracker.ui.components.BannerAdView
 import net.syserr.starpathtracker.theme.CelestialBackground
 import net.syserr.starpathtracker.theme.CelestialCard
 import net.syserr.starpathtracker.theme.CelestialCardBorder
@@ -152,6 +153,9 @@ fun MainScreen(
                 onResetClick = { viewModel.openResetDialog() },
                 onMarkAllClick = { viewModel.markAllDuties() }
             )
+        },
+        bottomBar = {
+            BannerAdView()
         }
     ) { innerPadding ->
         Column(

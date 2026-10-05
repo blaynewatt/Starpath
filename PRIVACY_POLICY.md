@@ -11,17 +11,17 @@
 **Star Path Tracker does not collect, store, or transmit any personally identifiable information (PII).**
 
 - **No Account Required**: You do not need to create an account, log in, or provide any personal details to use the application.
-- **No Personal Data Collected**: We do not collect names, email addresses, phone numbers, location data, IP addresses, or device identifiers.
-- **No Analytics or Trackers**: The application contains no analytics SDKs, advertising libraries, or user tracking mechanisms.
+- **No Personal Data Collected by App Developer**: We do not collect names, email addresses, phone numbers, location data, or contact lists.
+- **Third-Party Advertising (Google AdMob)**: The application displays banner advertisements served by Google AdMob. Google AdMob may process device identifiers, general location/IP address, and app interaction data to deliver non-personalized or personalized ads, prevent fraud, and monitor ad performance in accordance with [Google's Privacy & Terms](https://policies.google.com/technologies/ads).
 
 ---
 
 ### 2. Network Usage and Permissions
 
-The application requests the `android.permission.INTERNET` permission for the following sole purpose:
+The application requests network permissions (`android.permission.INTERNET` and `android.permission.ACCESS_NETWORK_STATE`) for:
 
-- **Public Guide Retrieval**: Network requests are made strictly to retrieve publicly accessible Disney Dreamlight Valley Star Path guide tables and duty indices from IGN (`https://www.ign.com`).
-- No user data, telemetry, or query information is sent during these requests.
+- **Public Guide Retrieval**: Fetching publicly accessible Disney Dreamlight Valley Star Path guide tables from IGN (`https://www.ign.com`).
+- **Banner Advertising**: Requesting and rendering banner ads via the Google Mobile Ads SDK.
 
 ---
 

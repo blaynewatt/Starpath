@@ -1,0 +1,1278 @@
+{
+  "id": "haunting_elegance",
+  "title": "All Haunting Elegance Star Path Duties and Routine Duties",
+  "sourceUrl": "https://www.ign.com/wikis/disney-dreamlight-valley/All_Haunting_Elegance_Star_Path_Duties_and_Routine_Duties",
+  "duties": [
+    {
+      "id": "haunting_elegance_1",
+      "title": "Uproot Night Thorns",
+      "howToComplete": "Remove Night Thorns, Splinters of Fate, or Inkies.",
+      "requirement": "3",
+      "tokenReward": 5,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_2",
+      "title": "Have Daily Discussions with Villagers",
+      "howToComplete": "Have Daily Discussions with any Villager .",
+      "requirement": "5",
+      "tokenReward": 10,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_3",
+      "title": "Change your outfit",
+      "howToComplete": "Change any item of clothing or accessories using the Wardrobe Menu .",
+      "requirement": "1",
+      "tokenReward": 5,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_4",
+      "title": "Pet your Companion",
+      "howToComplete": "Pet any Companion . Equip Companions via the Wardrobe Menu to pet them!",
+      "requirement": "5",
+      "tokenReward": 5,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_5",
+      "title": "Mine for gems",
+      "howToComplete": "Mine any Gems .",
+      "requirement": "5",
+      "tokenReward": 5,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_6",
+      "title": "Catch some fish",
+      "howToComplete": "Catch any Fish .",
+      "requirement": "15",
+      "tokenReward": 25,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_7",
+      "title": "Have a daily discussion with your pal Goofy",
+      "howToComplete": "Have Daily Discussions with Goofy .",
+      "requirement": "1",
+      "tokenReward": 5,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_8",
+      "title": "Open up fresh Memories",
+      "howToComplete": "Open Yellow, Red, Blue, Green, or Purple memory shards .",
+      "requirement": "1",
+      "tokenReward": 5,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_9",
+      "title": "Take a selfie with Mickey Mouse",
+      "howToComplete": "Take a Photo with Mickey Mouse using your Royal Camera.",
+      "requirement": "1",
+      "tokenReward": 5,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_10",
+      "title": "Go mushroom picking",
+      "howToComplete": "Pick Mushrooms . You can find them in the Glade of Trust!",
+      "requirement": "15",
+      "tokenReward": 10,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_11",
+      "title": "Harvest some tomatoes",
+      "howToComplete": "Harvest Tomatoes . You can buy Tomato Seeds at Goofy's Stall on Dazzle Beach!",
+      "requirement": "20",
+      "tokenReward": 10,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_12",
+      "title": "Uproot Night Thorns",
+      "howToComplete": "Remove Night Thorns, Splinters of Fate, or Inkies.",
+      "requirement": "10",
+      "tokenReward": 10,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_13",
+      "title": "Get crafty!",
+      "howToComplete": "Craft any item at a Crafting Station.",
+      "requirement": "5",
+      "tokenReward": 5,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_14",
+      "title": "Buy something from Scrooge McDuck's Store",
+      "howToComplete": "Buy any item from Scrooge's Store.",
+      "requirement": "5",
+      "tokenReward": 10,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_15",
+      "title": "Pick some yellow flowers",
+      "howToComplete": "Pick Dandelions , Sunflowers , Yellow Daisies , Yellow Bromeliads , or Yellow Nasturtiums .",
+      "requirement": "25",
+      "tokenReward": 15,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_16",
+      "title": "Mine for red gems",
+      "howToComplete": "Mine Garnet , Ruby , or Spinel .",
+      "requirement": "5",
+      "tokenReward": 10,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_17",
+      "title": "Hang out with a hot-tempered duck",
+      "howToComplete": "Hang Out with Donald Duck for 10 minutes.",
+      "requirement": "10",
+      "tokenReward": 10,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_18",
+      "title": "Cook a 2-star meal",
+      "howToComplete": "Cook 2-star Meals",
+      "requirement": "3",
+      "tokenReward": 5,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_19",
+      "title": "Sell any Fish",
+      "howToComplete": "Sell Fish at any of Goofy's Stalls.",
+      "requirement": "15",
+      "tokenReward": 15,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_20",
+      "title": "Water dried-up crops",
+      "howToComplete": "Water any Dried Crops . All crops start out dry after planted unless it is raining!",
+      "requirement": "20",
+      "tokenReward": 10,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_21",
+      "title": "Earn 1,000 Dreamlight",
+      "howToComplete": "Earn 1,000 Dreamlight. See our handy guide on How to Get Dreamlight Fast to learn more.",
+      "requirement": "1000",
+      "tokenReward": 10,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_22",
+      "title": "Finish some Dreamlight Duties",
+      "howToComplete": "Complete Dreamlight Duties, Mist Duties, or Storybook Vale Duties .",
+      "requirement": "3",
+      "tokenReward": 5,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_23",
+      "title": "Pick up Wood materials",
+      "howToComplete": "Pick up Softwood, Hardwood, Dry Wood, Dark Wood, Tropical Wood, or Reclaimed Barn Wood .",
+      "requirement": "50",
+      "tokenReward": 15,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_24",
+      "title": "Take a selfie with Goofy",
+      "howToComplete": "Take a photo with Goofy using your Royal Camera.",
+      "requirement": "1",
+      "tokenReward": 10,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_25",
+      "title": "Change your outfit",
+      "howToComplete": "Change any item of clothing or accessories using the Wardrobe Menu .",
+      "requirement": "1",
+      "tokenReward": 5,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_26",
+      "title": "Have a short conversation with a long-bearded wizard",
+      "howToComplete": "Have Daily Discussions with Merlin",
+      "requirement": "1",
+      "tokenReward": 5,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_27",
+      "title": "Mine for purple gems",
+      "howToComplete": "Mine Amethyst or Alexandrite .",
+      "requirement": "5",
+      "tokenReward": 10,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_28",
+      "title": "Harvest your crops",
+      "howToComplete": "Harvest any Crops.",
+      "requirement": "20",
+      "tokenReward": 10,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_29",
+      "title": "Catch any fish.",
+      "howToComplete": "Catch any Fish .",
+      "requirement": "10",
+      "tokenReward": 15,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_30",
+      "title": "Open up fresh Memories",
+      "howToComplete": "Open Yellow, Red, Blue, Green, or Purple memory shards .",
+      "requirement": "1",
+      "tokenReward": 5,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_31",
+      "title": "Craft some fabric",
+      "howToComplete": "Craft Fabric at a Crafting Station. 1 Fabric is made using 5 Cotton.",
+      "requirement": "5",
+      "tokenReward": 10,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_32",
+      "title": "Sell items",
+      "howToComplete": "Sell any items at any of Goofy\u2019s Stalls",
+      "requirement": "15",
+      "tokenReward": 10,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_33",
+      "title": "Uproot Night Thorns",
+      "howToComplete": "Remove Night Thorns, Splinters of Fate, or Inkies.",
+      "requirement": "15",
+      "tokenReward": 10,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_34",
+      "title": "Hang out with your pal Mickey",
+      "howToComplete": "Hang Out with Mickey Mouse for 10 minutes.",
+      "requirement": "10min",
+      "tokenReward": 10,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_35",
+      "title": "Cook some Whimsical Pies",
+      "howToComplete": "Cook Whimsical Pie .",
+      "requirement": "3",
+      "tokenReward": 10,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_36",
+      "title": "Mine for gems",
+      "howToComplete": "Mine any Gems .",
+      "requirement": "10",
+      "tokenReward": 10,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_37",
+      "title": "Mine for pink gems.",
+      "howToComplete": "Mine Tourmaline .",
+      "requirement": "5",
+      "tokenReward": 15,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_38",
+      "title": "Earn 8,000 Star Coins",
+      "howToComplete": "Earn 8,000 Star Coins. See our guide on How to Earn Star Coins Fast for more information.",
+      "requirement": "8000",
+      "tokenReward": 15,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_39",
+      "title": "Go mushroom picking",
+      "howToComplete": "Pick Mushrooms . You can find them in the Glade of Trust!",
+      "requirement": "20",
+      "tokenReward": 15,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_40",
+      "title": "Whip up some 3-star meals",
+      "howToComplete": "Cook any 3-star meal .",
+      "requirement": "3",
+      "tokenReward": 15,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_41",
+      "title": "Submit an entry to DreamSnaps",
+      "howToComplete": "Submit a photo to a DreamSnaps contest",
+      "requirement": "1",
+      "tokenReward": 20,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_42",
+      "title": "Give Mickey & Friends their favorite gifts",
+      "howToComplete": "Give Favorite Gifts to Mickey Mouse , Minnie Mouse , Donald Duck , Daisy Duck , Scrooge McDuck , or Goofy .",
+      "requirement": "6",
+      "tokenReward": 25,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_43",
+      "title": "Catch fish",
+      "howToComplete": "Catch any Fish .",
+      "requirement": "12",
+      "tokenReward": 15,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_44",
+      "title": "Vote in a DreamSnaps contest",
+      "howToComplete": "Vote in a DreamSnaps contest .",
+      "requirement": "5",
+      "tokenReward": 15,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_45",
+      "title": "Craft some Miracle Pickaxe Polish",
+      "howToComplete": "Craft a Miracle Pickaxe Polish or Even More Miraculous Pickaxe Polish .",
+      "requirement": "1",
+      "tokenReward": 15,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_46",
+      "title": "Earn 1,500 Dreamlight",
+      "howToComplete": "Earn 1,500 Dreamlight. See our handy guide on How to Get Dreamlight Fast to learn more.",
+      "requirement": "1500",
+      "tokenReward": 15,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_47",
+      "title": "Reach Friendship Level 5 with some fellow Villagers",
+      "howToComplete": "Reach Friendship Level 5 with any five Villagers . Raise Friendship by Hanging Out, having Daily Discussions, and giving Gifts!",
+      "requirement": "5",
+      "tokenReward": 20,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_48",
+      "title": "Go apple picking",
+      "howToComplete": "Pick Apples in the Plaza or Forgotten Lands.",
+      "requirement": "50",
+      "tokenReward": 15,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_49",
+      "title": "Shop at Scrooge McDuck's store",
+      "howToComplete": "Buy any items from Scrooge's Store.",
+      "requirement": "5",
+      "tokenReward": 10,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_50",
+      "title": "Cook some pumpkin-based meals",
+      "howToComplete": "Cook any meal using Pumpkin as an ingredient . An easy option is Pumpkin Puffs , made with Pumpkin, Egg, and Cheese.",
+      "requirement": "5",
+      "tokenReward": 15,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_51",
+      "title": "Visit the house of the Pumpkin King",
+      "howToComplete": "Enter Jack Skellington's House.",
+      "requirement": "1",
+      "tokenReward": 20,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_52",
+      "title": "Hang out with the Pumpkin King",
+      "howToComplete": "Hang Out with Jack Skellington for 30 minutes",
+      "requirement": "30min",
+      "tokenReward": 20,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_53",
+      "title": "Take a selfie",
+      "howToComplete": "Take a picture of yourself using your Royal Camera",
+      "requirement": "5",
+      "tokenReward": 10,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_54",
+      "title": "Craft any paths",
+      "howToComplete": "Craft any Path item at a Crafting Station.",
+      "requirement": "100",
+      "tokenReward": 15,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_55",
+      "title": "Craft a Miracle Growth Elixir",
+      "howToComplete": "Craft Miracle Growth Elixir or Even More Miraculous Growth Elixir .",
+      "requirement": "1",
+      "tokenReward": 20,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_56",
+      "title": "Complete mining-related royal tasks",
+      "howToComplete": "Complete Dreamlight Duties, Mist Duties, or Storybook Vale Duties related to mining. These can include mining specific Gems or Rock Spots in certain Biomes.",
+      "requirement": "3",
+      "tokenReward": 10,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_57",
+      "title": "Mine for square gems",
+      "howToComplete": "Mine any Square Gem : Amethyst, Emerald, Ruby, Sapphire, Topaz, Spinel.",
+      "requirement": "10",
+      "tokenReward": 15,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_58",
+      "title": "Catch fish in the Forest of Valor",
+      "howToComplete": "Catch any Fish in the Forest of Valor .",
+      "requirement": "15",
+      "tokenReward": 20,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_59",
+      "title": "Chat with Scrooge McDuck",
+      "howToComplete": "Have Daily Discussions with Scrooge McDuck .",
+      "requirement": "1",
+      "tokenReward": 5,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_60",
+      "title": "Craft some Bricks",
+      "howToComplete": "Craft Bricks at any Crafting Station. 1 Brick is crafted using 5 Clay and 1 Coal Ore.",
+      "requirement": "50",
+      "tokenReward": 15,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_61",
+      "title": "Mine for white gems",
+      "howToComplete": "Mine Diamonds or Opals",
+      "requirement": "5",
+      "tokenReward": 20,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_62",
+      "title": "Open up fresh Memories",
+      "howToComplete": "Open Yellow, Red, Blue, Green, or Purple memory shards .",
+      "requirement": "10",
+      "tokenReward": 20,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_63",
+      "title": "Give Goofy his favorite gift",
+      "howToComplete": "Give Favorite Gifts to Goofy .",
+      "requirement": "1",
+      "tokenReward": 10,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_64",
+      "title": "Feed Black Ravens their favorite food",
+      "howToComplete": "Feed 5-Star Meals to the Classic Raven Critter in the Forgotten Lands.",
+      "requirement": "5",
+      "tokenReward": 20,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_65",
+      "title": "Earn 5,000 Dreamlight",
+      "howToComplete": "Earn 5,000 Dreamlight. See our handy guide on How to Get Dreamlight Fast to learn more.",
+      "requirement": "5000",
+      "tokenReward": 50,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_66",
+      "title": "Harvest Corn",
+      "howToComplete": "Harvest Corn . Corn Seeds can be purchased at Goofy\u2019s Stall on Dazzle Beach.",
+      "requirement": "20",
+      "tokenReward": 10,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_67",
+      "title": "Sell green veggies",
+      "howToComplete": "Sell any Green Vegetables at Goofy\u2019s Stall. Green Vegetables include Asparagus, Cucumber, Leek, Lettuce, Okra, and Spinach.",
+      "requirement": "50",
+      "tokenReward": 15,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_68",
+      "title": "Equip a companion who has reached Level 2",
+      "howToComplete": "Equip any Level 2 (or higher) Companion using the Wardrobe Menu.",
+      "requirement": "1",
+      "tokenReward": 20,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_69",
+      "title": "Sell items",
+      "howToComplete": "Sell any items at any of Goofy\u2019s Stalls",
+      "requirement": "30",
+      "tokenReward": 15,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_70",
+      "title": "Give a patchwork villager from Pumpkin Town her favorite gift",
+      "howToComplete": "Give Favorite Gifts to Sally",
+      "requirement": "1",
+      "tokenReward": 20,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_71",
+      "title": "Tackle a Boutique Challenge with Daisy",
+      "howToComplete": "Complete a challenge at Daisy\u2019s Boutique .",
+      "requirement": "1",
+      "tokenReward": 30,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_72",
+      "title": "Hang out with Mickey & Friends",
+      "howToComplete": "Hang Out with Mickey Mouse , Minnie Mouse , Donald Duck , Daisy Duck , Scrooge McDuck , or Goofy for 30 minutes.",
+      "requirement": "30min",
+      "tokenReward": 20,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_73",
+      "title": "Pet your Companion",
+      "howToComplete": "Pet any Companion . Equip Companions via the Wardrobe Menu to pet them!",
+      "requirement": "3",
+      "tokenReward": 5,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_74",
+      "title": "Prepare some Halloween Gingerbread Cookies",
+      "howToComplete": "Cook Halloween Gingerbread Cookies .",
+      "requirement": "3",
+      "tokenReward": 15,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_75",
+      "title": "Buy some Gumbo from Tiana's Stall",
+      "howToComplete": "Purchase Gumbo from Tiana's Stall. The Stall is unlocked during Tiana's Level 2 Friendship Quest, Back from the Bayou . Each Gumbo costs 1,093 Star Coins.",
+      "requirement": "3",
+      "tokenReward": 20,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_76",
+      "title": "Take a Photo with Donald",
+      "howToComplete": "Use your Royal Camera to take a picture with Donald Duck .",
+      "requirement": "1",
+      "tokenReward": 10,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_77",
+      "title": "Mine for gems",
+      "howToComplete": "Mine any Gems .",
+      "requirement": "20",
+      "tokenReward": 20,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_78",
+      "title": "Give the top Sugar Rush racer her favorite gifts",
+      "howToComplete": "Give favorite gifts to Vanellope von Schweetz .",
+      "requirement": "4",
+      "tokenReward": 15,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_79",
+      "title": "Hang Out with Goofy",
+      "howToComplete": "Hang Out with Goofy for 10 minutes",
+      "requirement": "10min",
+      "tokenReward": 10,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_80",
+      "title": "Reach Friendship Level 4 with the Pumpkin King",
+      "howToComplete": "Reach Friendship Level 4 with Jack Skellington .",
+      "requirement": "Level 4",
+      "tokenReward": 20,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_81",
+      "title": "Craft some Miracle Fishing Bait",
+      "howToComplete": "Craft Miracle Fishing Bait or Even More Miraculous Fishing Bait .",
+      "requirement": "1",
+      "tokenReward": 20,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_82",
+      "title": "Snack on some Gingerbread Houses",
+      "howToComplete": "Eat Gingerbread Houses .",
+      "requirement": "3",
+      "tokenReward": 20,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_83",
+      "title": "Uproot Night Thorns",
+      "howToComplete": "Remove Night Thorns, Splinters of Fate, or Inkies.",
+      "requirement": "20",
+      "tokenReward": 15,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_84",
+      "title": "Complete fishing-related royal tasks",
+      "howToComplete": "Complete Dreamlight Duties, Mist Duties, or Storybook Vale Duties involving fishing. These can involve catching certain fish, fishing in specific Biomes, fishing in gold ripples, and more.",
+      "requirement": "5",
+      "tokenReward": 15,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_85",
+      "title": "Whip up a 5-Star Dessert",
+      "howToComplete": "Cook any 5-star Dessert .",
+      "requirement": "5",
+      "tokenReward": 20,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_86",
+      "title": "Harvest Coconuts",
+      "howToComplete": "Pick Coconuts on Dazzle Beach",
+      "requirement": "40",
+      "tokenReward": 20,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_87",
+      "title": "Mine for shiny gems",
+      "howToComplete": "Mine any Shiny Gems .",
+      "requirement": "20",
+      "tokenReward": 40,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_88",
+      "title": "Feed the Black Sea Turtles their favorite food",
+      "howToComplete": "Feed Seaweed to the Black Sea Turtle Critter. It can be found on Dazzle Beach on Mondays.",
+      "requirement": "3",
+      "tokenReward": 10,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_89",
+      "title": "Harvest a plethora of pumpkins",
+      "howToComplete": "Harvest Pumpkins. You can purchase Pumpkin Seeds at Goofy's Stall in the Forgotten Lands.",
+      "requirement": "50",
+      "tokenReward": 20,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_90",
+      "title": "Craft some carts",
+      "howToComplete": "Craft Carts at any Crafting Table.",
+      "requirement": "5",
+      "tokenReward": 20,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_91",
+      "title": "Cook a fairly fancy appetizer",
+      "howToComplete": "Cook any 4-star Appetizer .",
+      "requirement": "3",
+      "tokenReward": 15,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_92",
+      "title": "Mine for Vitalys Crystals",
+      "howToComplete": "Mine Vitalys Crystals in the Vitalys Mines",
+      "requirement": "50",
+      "tokenReward": 20,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_93",
+      "title": "Sell items",
+      "howToComplete": "Sell any Items at any of Goofy's Stalls",
+      "requirement": "100",
+      "tokenReward": 20,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_94",
+      "title": "Catch fish in gold ripples",
+      "howToComplete": "Catch any Fish or Seafood in gold ripples in any biome.",
+      "requirement": "10",
+      "tokenReward": 30,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_95",
+      "title": "Dig for pottery material",
+      "howToComplete": "Dig up Clay in the Glade of Trust, Sunlit Plateau, and Forgotten Lands.",
+      "requirement": "15",
+      "tokenReward": 15,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_96",
+      "title": "Craft a potion you can really \"dig\"",
+      "howToComplete": "Craft Miracle Shovel Varnish or Even More Miraculous Shovel Varnish .",
+      "requirement": "1",
+      "tokenReward": 20,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_97",
+      "title": "Give the Pumpkin King his favorite gifts",
+      "howToComplete": "Give Favorite Gifts to Jack Skellington .",
+      "requirement": "3",
+      "tokenReward": 20,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_98",
+      "title": "Buy Seeds from Goofy's Stall",
+      "howToComplete": "Buy any Seeds from any of Goofy's Stalls.",
+      "requirement": "20",
+      "tokenReward": 20,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_99",
+      "title": "Earn 25,000 Star Coins.",
+      "howToComplete": "Earn 25,000 Star Coins. See our guide on How to Earn Star Coins Fast for more information.",
+      "requirement": "25000",
+      "tokenReward": 25,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_100",
+      "title": "Craft Autumn Harvest Pennants or a Playful Pumpkin Scarecrow",
+      "howToComplete": "Craft Autumn Harvest Pennants or Playful Pumpkin Scarecrow at any Crafting Table.",
+      "requirement": "1",
+      "tokenReward": 15,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_101",
+      "title": "Complete some Dreamlight Duties",
+      "howToComplete": "Complete Dreamlight Duties, Mist Duties, or Storybook Vale Duties .",
+      "requirement": "15",
+      "tokenReward": 25,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_102",
+      "title": "Hang out with the patchwork Villager from Pumpkin Town",
+      "howToComplete": "Hang Out with Sally for 30 minutes",
+      "requirement": "30min",
+      "tokenReward": 20,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_103",
+      "title": "Hey! Craft some Hay Bales",
+      "howToComplete": "Craft Hay Bales at any Crafting Table",
+      "requirement": "10",
+      "tokenReward": 25,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_104",
+      "title": "Whip up some 5-star meals",
+      "howToComplete": "Cook any 5-star Meal .",
+      "requirement": "8",
+      "tokenReward": 25,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_105",
+      "title": "Water dried-up plants",
+      "howToComplete": "Water any Dried Crops . All crops start out dry after planted unless it is raining!",
+      "requirement": "50",
+      "tokenReward": 15,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_106",
+      "title": "Harvest some vampire repellent",
+      "howToComplete": "Harvest Garlic",
+      "requirement": "30",
+      "tokenReward": 25,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_107",
+      "title": "Feed Raccoons their favorite food",
+      "howToComplete": "Feed Blueberries to the Raccoons in the Forest of Valor.",
+      "requirement": "1",
+      "tokenReward": 15,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_108",
+      "title": "Take a photo of both Jack Skellington and his bone-chilling House",
+      "howToComplete": "Use your Royal Camera to take a picture including both Jack Skellington and Jack Skellington's House.",
+      "requirement": "1",
+      "tokenReward": 20,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_109",
+      "title": "Earn 12,000 Star Coins",
+      "howToComplete": "Earn 12,000 Star Coins. See our guide on How to Earn Star Coins Fast for more information.",
+      "requirement": "12000",
+      "tokenReward": 15,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_110",
+      "title": "Prepare Tekka Maki",
+      "howToComplete": "Cook Tekka Maki .",
+      "requirement": "5",
+      "tokenReward": 20,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_111",
+      "title": "Harvest coffee beans",
+      "howToComplete": "Harvest Coffee Beans in the Glade of Trust.",
+      "requirement": "50",
+      "tokenReward": 25,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_112",
+      "title": "Hang out with a long-bearded wizard",
+      "howToComplete": "Hang Out with Merlin for 30 minutes.",
+      "requirement": "30min",
+      "tokenReward": 20,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_113",
+      "title": "Mine 30 Gems",
+      "howToComplete": "Mine any Gems .",
+      "requirement": "30",
+      "tokenReward": 25,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_114",
+      "title": "Cook a nearly perfect appetizer",
+      "howToComplete": "Cook any 4-star Appetizer .",
+      "requirement": "3",
+      "tokenReward": 15,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_115",
+      "title": "Submit an entry to DreamSnaps",
+      "howToComplete": "Submit a photo to a DreamSnaps contest",
+      "requirement": "1",
+      "tokenReward": 25,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_116",
+      "title": "Take Photos around the Valley",
+      "howToComplete": "Take any Photos using your Royal Camera",
+      "requirement": "5",
+      "tokenReward": 15,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_117",
+      "title": "Craft some Miracle Fishing Bait",
+      "howToComplete": "Craft Miracle Fishing Bait or Even More Miraculous Fishing Bait .",
+      "requirement": "1",
+      "tokenReward": 25,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_118",
+      "title": "Serve meals in Remy's Restaurant",
+      "howToComplete": "Serve Meals to customers in Remy's Restaurant",
+      "requirement": "8",
+      "tokenReward": 25,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_119",
+      "title": "Sell items",
+      "howToComplete": "Sell any items to any of Goofy's Stalls.",
+      "requirement": "100",
+      "tokenReward": 10,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_120",
+      "title": "Cook a fairly fancy appetizer",
+      "howToComplete": "Cook any 4-star Appetizer .",
+      "requirement": "5",
+      "tokenReward": 25,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_121",
+      "title": "Visit the Haunted Floating Festival",
+      "howToComplete": "Enter the Haunted Floating Festival Floating Island. (Note that this event is not yet available - it will begin on October 7, 2026!)",
+      "requirement": "1",
+      "tokenReward": 10,
+      "section": "All Haunting Elegance Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_122",
+      "title": "Mine 20 Orange Gems",
+      "howToComplete": "Mine Citrine or Evergem",
+      "requirement": "20",
+      "tokenReward": 30,
+      "section": "Week 1: September 23 - September 30",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_123",
+      "title": "Cook 15 servings of Candy",
+      "howToComplete": "Cook Candy . Candy is made using 1 of any Sweet ingredient.",
+      "requirement": "15",
+      "tokenReward": 30,
+      "section": "Week 1: September 23 - September 30",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_124",
+      "title": "Hang Out with the Pumpkin King",
+      "howToComplete": "Hang Out with Jack Skellington for 30 minutes",
+      "requirement": "30",
+      "tokenReward": 40,
+      "section": "Week 1: September 23 - September 30",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_125",
+      "title": "Hang out with Goofy",
+      "howToComplete": "Hang Out with Goofy for 30 minutes",
+      "requirement": "30min",
+      "tokenReward": 30,
+      "section": "Week 2: September 30 - October 7",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_126",
+      "title": "Catch 25 Fish",
+      "howToComplete": "Catch any Fish",
+      "requirement": "25",
+      "tokenReward": 35,
+      "section": "Week 2: September 30 - October 7",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "haunting_elegance_127",
+      "title": "Take a photo of the Pumpkin King's door",
+      "howToComplete": "Put the Candy Cane Door (a Haunting Elegance Star Path Reward) in your House and take a photo of it",
+      "requirement": "1",
+      "tokenReward": 40,
+      "section": "Week 2: September 30 - October 7",
+      "isCompleted": false,
+      "notes": ""
+    }
+  ],
+  "lastUpdated": 1728115200000
+}

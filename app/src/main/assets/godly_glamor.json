@@ -1,0 +1,1268 @@
+{
+  "id": "godly_glamor",
+  "title": "All Godly Glamor Star Path Duties and Routine Duties",
+  "sourceUrl": "https://www.ign.com/wikis/disney-dreamlight-valley/All_Godly_Glamor_Star_Path_Duties_and_Routine_Duties",
+  "duties": [
+    {
+      "id": "godly_glamor_1",
+      "title": "Uproot Night Thorns.",
+      "howToComplete": "Remove Night Thorns, Splinters of Fate, or Inkies.",
+      "requirement": "3",
+      "tokenReward": 5,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_2",
+      "title": "Start Discussions.",
+      "howToComplete": "Start a discussion with any Villager .",
+      "requirement": "5",
+      "tokenReward": 10,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_3",
+      "title": "Collect 10,000 Star Coins.",
+      "howToComplete": "Earn Star Coins .",
+      "requirement": "10",
+      "tokenReward": 5,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_4",
+      "title": "Get crafty!",
+      "howToComplete": "Craft any item at a Crafting Station.",
+      "requirement": "5",
+      "tokenReward": 5,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_5",
+      "title": "Change outfit.",
+      "howToComplete": "Change any item of clothing or accessories using the Wardrobe Menu .",
+      "requirement": "1",
+      "tokenReward": 5,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_6",
+      "title": "Uproot Night Thorns",
+      "howToComplete": "Remove Night Thorns, Splinters of Fate, or Inkies.",
+      "requirement": "5",
+      "tokenReward": 5,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_7",
+      "title": "Find Gems with your Pickaxe.",
+      "howToComplete": "Mine any Gems.",
+      "requirement": "5",
+      "tokenReward": 5,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_8",
+      "title": "Finish some Dreamlight Duties",
+      "howToComplete": "Complete any Dreamlight Duties .",
+      "requirement": "3",
+      "tokenReward": 10,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_9",
+      "title": "Earn 5,000 Dreamlight.",
+      "howToComplete": "Earn Dreamlight .",
+      "requirement": "5",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_10",
+      "title": "Catch Fish.",
+      "howToComplete": "Catch any Fish.",
+      "requirement": "10",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_11",
+      "title": "Harvest Spinach.",
+      "howToComplete": "Harvest Spinach",
+      "requirement": "25",
+      "tokenReward": 25,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_12",
+      "title": "Sell Spinach",
+      "howToComplete": "Sell Spinach at any of Goofy\u2019s stall.",
+      "requirement": "15",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_13",
+      "title": "Take a Selfie with Merlin.",
+      "howToComplete": "Use your Royal Camera to take a photo with Merlin .",
+      "requirement": "1",
+      "tokenReward": 5,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_14",
+      "title": "Craft any Materials.",
+      "howToComplete": "Craft any material at a Crafting Station.",
+      "requirement": "10",
+      "tokenReward": 10,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_15",
+      "title": "Cook 2-Star Meals.",
+      "howToComplete": "Cook any 2-star meal.",
+      "requirement": "3",
+      "tokenReward": 5,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_16",
+      "title": "Craft a Fountain.",
+      "howToComplete": "Craft a Fountain, Sand Fountain, Fountain of Thebes, or The Bind Fountain at any crafting station.",
+      "requirement": "1",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_17",
+      "title": "Cook a fairly fancy appetizer.",
+      "howToComplete": "Cook any 4-star Appetizer .",
+      "requirement": "3",
+      "tokenReward": 10,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_18",
+      "title": "Gain 15,000 Star Coins.",
+      "howToComplete": "Earn Star Coins.",
+      "requirement": "15,000",
+      "tokenReward": 10,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_19",
+      "title": "Make ingots at a Crafting Station.",
+      "howToComplete": "Craft any Ingots at a crafting station, such as Iron, Brass, Bronze, or Gold Ingots .",
+      "requirement": "5",
+      "tokenReward": 10,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_20",
+      "title": "Cook a fairly fancy dessert.",
+      "howToComplete": "Cook any 4-star dessert .",
+      "requirement": "3",
+      "tokenReward": 10,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_21",
+      "title": "Open up fresh Memories.",
+      "howToComplete": "Consume Memory Shards (Yellow, Red, Blue, Green, or Purple).",
+      "requirement": "1",
+      "tokenReward": 5,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_22",
+      "title": "Chat with Mickey Mouse.",
+      "howToComplete": "Have a conversation with Mickey Mouse .",
+      "requirement": "1",
+      "tokenReward": 5,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_23",
+      "title": "Pick up Stone or Marble.",
+      "howToComplete": "Pick up Stone or Marble .",
+      "requirement": "50",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_24",
+      "title": "Harvest Something Sweet.",
+      "howToComplete": "Harvest Sugarcane",
+      "requirement": "50",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_25",
+      "title": "Craft some fabric.",
+      "howToComplete": "Craft Fabric at a crafting station",
+      "requirement": "5",
+      "tokenReward": 10,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_26",
+      "title": "Spend time with Donald.",
+      "howToComplete": "Hang out with Donald Duck for 10 minutes.",
+      "requirement": "10",
+      "tokenReward": 5,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_27",
+      "title": "Whip up a 3-star meal.",
+      "howToComplete": "Cook any 3-star meal.",
+      "requirement": "3",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_28",
+      "title": "Start Discussions with Goofy.",
+      "howToComplete": "Start a discussion with Goofy",
+      "requirement": "1",
+      "tokenReward": 5,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_29",
+      "title": "Craft some Miracle Pickaxe Polish.",
+      "howToComplete": "Craft Even More Miraculous Pickaxe Varnish/ Miracle Pickaxe Varnish .",
+      "requirement": "1",
+      "tokenReward": 25,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_30",
+      "title": "Hang out with Scrooge McDuck.",
+      "howToComplete": "Hang out with Scrooge McDuck for 30 minutes.",
+      "requirement": "30",
+      "tokenReward": 30,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_31",
+      "title": "Cook a nearly perfect appetizer.",
+      "howToComplete": "Cook any 4-star Appetizer .",
+      "requirement": "3",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_32",
+      "title": "Mine for oval gems.",
+      "howToComplete": "Mine oval gems , such as Aquamarine , Shiny Aquamarine , Citrine , Shiny Citrine , Garnet , Shiny Garnet , Peridot , Shiny Peridot , Tourmaline , or Shiny Tourmaline .",
+      "requirement": "5",
+      "tokenReward": 10,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_33",
+      "title": "Catch some tentacled seafood.",
+      "howToComplete": "Fish for Squid or Octopus .",
+      "requirement": "3",
+      "tokenReward": 25,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_34",
+      "title": "Change outfit.",
+      "howToComplete": "Change any item of clothing or accessories using the Wardrobe Menu .",
+      "requirement": "1",
+      "tokenReward": 5,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_35",
+      "title": "Vote in DreamSnaps.",
+      "howToComplete": "Vote in a Dreamsnaps contest .",
+      "requirement": "5",
+      "tokenReward": 5,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_36",
+      "title": "Cook a nearly perfect dessert.",
+      "howToComplete": "Cook any 4-star dessert .",
+      "requirement": "3",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_37",
+      "title": "Pick blue flowers.",
+      "howToComplete": "Pick up any blue flowers : Blue Falling Penstemon, Blue Hydrangea, Blue Marsh Milkweed, Blue Passion Lily, Blue Star Lily, Blue Glass-Like Flowers, Blue Luminescent Flower, Blue Tale Cone Flower, or Blue Lily of the Valley.",
+      "requirement": "15",
+      "tokenReward": 5,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_38",
+      "title": "Mine for blue gems.",
+      "howToComplete": "Mine blue gems , such as Aquamarine, Shiny Aquamarine, Star Sapphire, and Shiny Star Sapphire.",
+      "requirement": "5",
+      "tokenReward": 10,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_39",
+      "title": "Water your Garden.",
+      "howToComplete": "Water any crops using your Royal Watering Can",
+      "requirement": "1",
+      "tokenReward": 20,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_40",
+      "title": "Catch Fish.",
+      "howToComplete": "Catch any Fish.",
+      "requirement": "10",
+      "tokenReward": 25,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_41",
+      "title": "Reach Friendship Level 5 with some Villagers.",
+      "howToComplete": "Reach Friendship Level 5 with any character.",
+      "requirement": "5",
+      "tokenReward": 25,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_42",
+      "title": "Craft a Swimming Pool.",
+      "howToComplete": "Craft any swimming pool at a crafting station.",
+      "requirement": "1",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_43",
+      "title": "Craft some Miracle Fishing Bait.",
+      "howToComplete": "Craft Even More Miraculous Fishing Bait / Miracle Fishing Bait .",
+      "requirement": "1",
+      "tokenReward": 25,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_44",
+      "title": "Have a short conversation with a long-bearded Villager.",
+      "howToComplete": "Start a conversation with Merlin .",
+      "requirement": "1",
+      "tokenReward": 5,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_45",
+      "title": "Unlock a realm of gods and heroes.",
+      "howToComplete": "Unlock the door to the Hercules Realm in the Dream Castle.",
+      "requirement": "1",
+      "tokenReward": 40,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_46",
+      "title": "Uproot Night Thorns.",
+      "howToComplete": "Remove Night Thorns, Splinters of Fate, or Inkies.",
+      "requirement": "10",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_47",
+      "title": "Whip up some 4-star meals.",
+      "howToComplete": "Cook any 4-star meal.",
+      "requirement": "5",
+      "tokenReward": 30,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_48",
+      "title": "Sell any Fish.",
+      "howToComplete": "Sell any Fish.",
+      "requirement": "15",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_49",
+      "title": "Pet your Animal Companion.",
+      "howToComplete": "Pet any companion .",
+      "requirement": "5",
+      "tokenReward": 5,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_50",
+      "title": "Chat with the Village's best dealmaker.",
+      "howToComplete": "Start a conversation with Scrooge McDuck .",
+      "requirement": "1",
+      "tokenReward": 5,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_51",
+      "title": "Mine for a black gemstone.",
+      "howToComplete": "Mine black gems : Onyx or Shiny Oynx.",
+      "requirement": "5",
+      "tokenReward": 10,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_52",
+      "title": "Finish some Dreamlight Duties.",
+      "howToComplete": "Complete any Dreamlight Duties.",
+      "requirement": "10",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_53",
+      "title": "Open up fresh Memories.",
+      "howToComplete": "Consume Memory Shards (Yellow, Red, Blue, Green, or Purple).",
+      "requirement": "3",
+      "tokenReward": 10,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_54",
+      "title": "Go apple picking.",
+      "howToComplete": "Harvest Apple",
+      "requirement": "50",
+      "tokenReward": 25,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_55",
+      "title": "Mine for purple gems.",
+      "howToComplete": "Mine purple gems , such as Alexandrite, Shiny Alexandrite, Amethyst, or Shiny Amethyst.",
+      "requirement": "5",
+      "tokenReward": 20,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_56",
+      "title": "Whip up a 5-star dessert.",
+      "howToComplete": "Cook any 5-star dessert .",
+      "requirement": "5",
+      "tokenReward": 20,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_57",
+      "title": "Unlock Hercules in your Valley.",
+      "howToComplete": "Unlock Hercules as a character .",
+      "requirement": "1",
+      "tokenReward": 40,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_58",
+      "title": "Submit an entry to DreamSnaps.",
+      "howToComplete": "Submit a DreamSnaps entry.",
+      "requirement": "1",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_59",
+      "title": "Catch some tentacled seafood.",
+      "howToComplete": "Fish for Squid or Octopus.",
+      "requirement": "5",
+      "tokenReward": 25,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_60",
+      "title": "Fish in the Forest of Valor.",
+      "howToComplete": "Catch any Fish in the Forest of Valor .",
+      "requirement": "10",
+      "tokenReward": 10,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_61",
+      "title": "Cook 5-Star Meals.",
+      "howToComplete": "Cook any 5-star meal .",
+      "requirement": "5",
+      "tokenReward": 20,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_62",
+      "title": "Dig for pottery material.",
+      "howToComplete": "Pick up Clay or dig it up using your Royal Shovel.",
+      "requirement": "15",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_63",
+      "title": "Craft a Miracle Growth Elixir.",
+      "howToComplete": "Craft Even More Miraculous Growth Elixir / Miracle Growth Elixir .",
+      "requirement": "1",
+      "tokenReward": 25,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_64",
+      "title": "Sell Clay.",
+      "howToComplete": "Sell Clay at any of Goofy\u2019s Stalls.",
+      "requirement": "15",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_65",
+      "title": "Snap a selfie with a Grecian hero.",
+      "howToComplete": "Take a photo with Hercules using your Royal Camera.",
+      "requirement": "1",
+      "tokenReward": 5,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_66",
+      "title": "Have a chat with the son of Zeus.",
+      "howToComplete": "Start a conversation with Hercules.",
+      "requirement": "1",
+      "tokenReward": 5,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_67",
+      "title": "Mine for pink gems.",
+      "howToComplete": "Mine for any pink gem : Tourmaline or Shiny Tourmaline.",
+      "requirement": "5",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_68",
+      "title": "Hang out with Daisy.",
+      "howToComplete": "Hang out with Daisy Duck for 30 minutes.",
+      "requirement": "30",
+      "tokenReward": 30,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_69",
+      "title": "Feed the Sea Turtles their favorite food.",
+      "howToComplete": "Feed Seaweed to any Sea Turtle .",
+      "requirement": "3",
+      "tokenReward": 20,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_70",
+      "title": "Hang out with \"Wonderboy\".",
+      "howToComplete": "Hang out with Hercules for 45 minutes.",
+      "requirement": "45",
+      "tokenReward": 45,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_71",
+      "title": "Pick up red flowers.",
+      "howToComplete": "Pick up any red flowers : Red Bell Flower, Red Bromeliad, Red Daisy, Red Falling Penstemon, Red Nasturtium, Red Passion Lily, Red Rose, Red Luminescent Flower, Red Pitcher Plant, or Red Silk Flower.",
+      "requirement": "25",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_72",
+      "title": "Fish for something that's puffy.",
+      "howToComplete": "Catch Fugu fish using your Royal Fishing Rod.",
+      "requirement": "3",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_73",
+      "title": "Give Hercules his favorite gifts.",
+      "howToComplete": "Gift Hercules any of his Favorite Things of the Day.",
+      "requirement": "1",
+      "tokenReward": 25,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_74",
+      "title": "Tackle Boutique Challenges with Daisy.",
+      "howToComplete": "Complete one of Daisy \u2019s Boutique Challenges .",
+      "requirement": "1",
+      "tokenReward": 25,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_75",
+      "title": "Mine for purple gems.",
+      "howToComplete": "Mine purple gems , such as Alexandrite, Shiny Alexandrite, Amethyst, or Shiny Amethyst.",
+      "requirement": "5",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_76",
+      "title": "Pick up pebbles.",
+      "howToComplete": "Pick up Pebbles .",
+      "requirement": "25",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_77",
+      "title": "Unlock Phil in your Valley.",
+      "howToComplete": "Unlock Phil (Philoctetes) as a character.",
+      "requirement": "1",
+      "tokenReward": 40,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_78",
+      "title": "Cook a top-tier appetizer.",
+      "howToComplete": "Cook any 5-star appetizer .",
+      "requirement": "5",
+      "tokenReward": 20,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_79",
+      "title": "Take a photo with Phil.",
+      "howToComplete": "Take a photo with Phil using your Royal Camera.",
+      "requirement": "1",
+      "tokenReward": 5,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_80",
+      "title": "Have a daily discussion with Phil.",
+      "howToComplete": "Start a conversation with Phil.",
+      "requirement": "1",
+      "tokenReward": 5,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_81",
+      "title": "Sell items.",
+      "howToComplete": "Sell any item at Goofy\u2019s Stall.",
+      "requirement": "100",
+      "tokenReward": 25,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_82",
+      "title": "Give a grumpy goat some flowers.",
+      "howToComplete": "Give any flower to Phil.",
+      "requirement": "1",
+      "tokenReward": 20,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_83",
+      "title": "Buy seeds from the Forgotten Lands.",
+      "howToComplete": "Buy any seeds from the Forgotten Lands biome.",
+      "requirement": "50",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_84",
+      "title": "Hang out with Phil.",
+      "howToComplete": "Hang out with Phil for 45 minutes.",
+      "requirement": "45",
+      "tokenReward": 45,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_85",
+      "title": "Sell green veggies.",
+      "howToComplete": "Sell any green vegetable at Goofy\u2019s Stall: Asparagus, Cucumber, Leek, Lettuce, Okra, Spinach, Zucchini, Bamboo, Broccoli, Celery, Brussels Sprouts, Green Beans, or Cabbage.",
+      "requirement": "50",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_86",
+      "title": "Mine for square gems.",
+      "howToComplete": "Mine any square gem :: Amethyst, Shiny Amethyst, Emerald, Shiny Emerald, Onyx, Shiny Onyx, Ruby, Shiny Ruby, Sapphire, Shiny Sapphire, Topaz, or Shiny Topaz.",
+      "requirement": "10",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_87",
+      "title": "Bring Phil his favorite gifts.",
+      "howToComplete": "Give Phil any of his Favorite Things of the Day.",
+      "requirement": "1",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_88",
+      "title": "Craft a potion you can really \"dig\".",
+      "howToComplete": "Craft Miracle Shovel Varnish , Even More Miraculous Shovel Varnish.",
+      "requirement": "1",
+      "tokenReward": 25,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_89",
+      "title": "Take a photo of a Baby Crocodile.",
+      "howToComplete": "Take a photo of a Baby Crocodile using your Royal Camera.",
+      "requirement": "1",
+      "tokenReward": 5,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_90",
+      "title": "Hang out with a glitchy Villager.",
+      "howToComplete": "Hang out with Vanellope von Schweetz for 15 minutes.",
+      "requirement": "15",
+      "tokenReward": 20,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_91",
+      "title": "Catch tuna.",
+      "howToComplete": "Catch Tuna fish using your Royal Fishing Rod.",
+      "requirement": "5",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_92",
+      "title": "Mine for gems.",
+      "howToComplete": "Mine any gems .",
+      "requirement": "20",
+      "tokenReward": 20,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_93",
+      "title": "Craft some fabric.",
+      "howToComplete": "Craft Fabric at a crafting station.",
+      "requirement": "15",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_94",
+      "title": "Fish for Sea Bream.",
+      "howToComplete": "Catch Sea Bream fish using your Royal Fishing Rod.",
+      "requirement": "3",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_95",
+      "title": "Buy something from Scrooge McDuck's Store.",
+      "howToComplete": "Buy any item from Scrooge McDuck 's Store.",
+      "requirement": "5",
+      "tokenReward": 10,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_96",
+      "title": "Mine for white gems.",
+      "howToComplete": "Mine any white gems : Diamond or Shiny Diamond.",
+      "requirement": "5",
+      "tokenReward": 10,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_97",
+      "title": "Collect sand.",
+      "howToComplete": "Pick up Sand , such as from Dazzle Beach.",
+      "requirement": "25",
+      "tokenReward": 25,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_98",
+      "title": "Level up your friendship with Hercules.",
+      "howToComplete": "Reach level 2 Friendship with Hercules.",
+      "requirement": "1",
+      "tokenReward": 25,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_99",
+      "title": "Finish some Dreamlight Duties.",
+      "howToComplete": "Complete any Dreamlight Duties.",
+      "requirement": "10",
+      "tokenReward": 25,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_100",
+      "title": "Open up fresh Memories.",
+      "howToComplete": "Consume Memory Shards (Yellow, Red, Blue, Green, or Purple).",
+      "requirement": "5",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_101",
+      "title": "Mine for an orange gem.",
+      "howToComplete": "Mine any orange gems : Citrine or Shiny Citrine",
+      "requirement": "5",
+      "tokenReward": 10,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_102",
+      "title": "Craft some ominous dark shards.",
+      "howToComplete": "Craft Night Shards at a crafting station.",
+      "requirement": "6",
+      "tokenReward": 25,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_103",
+      "title": "Feed the rabbits their favorite food.",
+      "howToComplete": "Feed Rabbits their favorite food: Carrots .",
+      "requirement": "3",
+      "tokenReward": 20,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_104",
+      "title": "Snap a portrait of a Herculean home..",
+      "howToComplete": "Take a photo of Hercules\u2019 house using your Royal Camera.",
+      "requirement": "1",
+      "tokenReward": 10,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_105",
+      "title": "Give Hercules or Phil their favorite gifts.",
+      "howToComplete": "Give either Hercules or Phil any of their Favorite Gifts/Things of the Day.",
+      "requirement": "2",
+      "tokenReward": 20,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_106",
+      "title": "Earn 7,500 Dreamlight",
+      "howToComplete": "Earn Dreamlight.",
+      "requirement": "7,500",
+      "tokenReward": 50,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_107",
+      "title": "Earn 30,000 Star Coins.",
+      "howToComplete": "Earn Star Coins .",
+      "requirement": "30",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_108",
+      "title": "Craft large miraculous elixirs.",
+      "howToComplete": "Craft Even More Miraculous Fishing Bait /Even More Miraculous Growth Elixir/Even More Miraculous Pickaxe Polish/Even More Miraculous Shovel Varnish.",
+      "requirement": "1",
+      "tokenReward": 25,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_109",
+      "title": "Craft any Training Manual.",
+      "howToComplete": "Craft any Training Manual .",
+      "requirement": "1",
+      "tokenReward": 25,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_110",
+      "title": "Vote in a dreamy contest in the Valleyverse.",
+      "howToComplete": "Vote in a DreamSnaps contest.",
+      "requirement": "15",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_111",
+      "title": "Give Mickey & Friends their favorite gifts.",
+      "howToComplete": "Give Mickey Mouse , Minnie Mouse , Donald Duck , Scrooge McDuck , Goofy , or Daisy Duck their favorite gifts.",
+      "requirement": "5",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_112",
+      "title": "Mine for something shiny.",
+      "howToComplete": "Mine any Shiny Gems .",
+      "requirement": "10",
+      "tokenReward": 10,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_113",
+      "title": "Sell gems.",
+      "howToComplete": "Sell any gems at Goofy \u2019s Stall.",
+      "requirement": "15",
+      "tokenReward": 10,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_114",
+      "title": "Hang out with Mickey & Friends.",
+      "howToComplete": "Hang out with Mickey Mouse , Minnie Mouse , Donald Duck , Scrooge McDuck , Goofy , or Daisy Duck for 60 minutes.",
+      "requirement": "60",
+      "tokenReward": 25,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_115",
+      "title": "Take a picture with Daisy.",
+      "howToComplete": "Take a picture with Daisy Duck using your Royal Camera.",
+      "requirement": "1",
+      "tokenReward": 5,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_116",
+      "title": "Complete Boutique Challenges with Daisy.",
+      "howToComplete": "Complete one of Daisy \u2019s Boutique Challenges .",
+      "requirement": "1",
+      "tokenReward": 20,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_117",
+      "title": "Take your friendship with Hercules to the maximum.",
+      "howToComplete": "Reach level 10 Friendship with Hercules.",
+      "requirement": "1",
+      "tokenReward": 55,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_118",
+      "title": "Hang out with Any Villager.",
+      "howToComplete": "Hang out with any character for 60 minutes.",
+      "requirement": "60",
+      "tokenReward": 25,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_119",
+      "title": "Catch fish in gold ripples.",
+      "howToComplete": "Catch any fish from gold ripples using your Royal Fishing Rod.",
+      "requirement": "5",
+      "tokenReward": 15,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_120",
+      "title": "Open up fresh Memories",
+      "howToComplete": "Consume Memory Shards : Yellow, Red, Blue, Green, or Purple.",
+      "requirement": "5",
+      "tokenReward": 25,
+      "section": "All Godly Glamor Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_121",
+      "title": "Collect some sandy seafood.",
+      "howToComplete": "Pick up Oyster , Scallop, or Clam.",
+      "requirement": "5",
+      "tokenReward": 25,
+      "section": "Week 1 - Mediterranean Specialties (June 3 \u2013 June 9)",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_122",
+      "title": "Harvest Lemons.",
+      "howToComplete": "Harvest Lemons",
+      "requirement": "15",
+      "tokenReward": 25,
+      "section": "Week 1 - Mediterranean Specialties (June 3 \u2013 June 9)",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_123",
+      "title": "Cook a Seafood Platter.",
+      "howToComplete": "Cook a Large Seafood Platter , Seafood Platter , or Oyster Platter .",
+      "requirement": "5",
+      "tokenReward": 50,
+      "section": "Week 1 - Mediterranean Specialties (June 3 \u2013 June 9)",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_124",
+      "title": "Try on your Ivory and Gold Toga Dress.",
+      "howToComplete": "Equip the Ivory and Gold Toga Dress from the Wardrobe Menu .",
+      "requirement": "1",
+      "tokenReward": 25,
+      "section": "Week 2 Olympus Fashion (June 10 \u2013 June 16)",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_125",
+      "title": "Try on your Gladiator Sandals.",
+      "howToComplete": "Equip the Gladiator Sandals from the Wardrobe Menu.",
+      "requirement": "1",
+      "tokenReward": 25,
+      "section": "Week 2 Olympus Fashion (June 10 \u2013 June 16)",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "godly_glamor_126",
+      "title": "Try on your Olympian Bracelet.",
+      "howToComplete": "Equip the Olympian Bracelet from the Wardrobe Menu.",
+      "requirement": "1",
+      "tokenReward": 50,
+      "section": "Week 2 Olympus Fashion (June 10 \u2013 June 16)",
+      "isCompleted": false,
+      "notes": ""
+    }
+  ],
+  "lastUpdated": 1728115200000
+}

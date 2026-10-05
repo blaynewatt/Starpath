@@ -1,0 +1,988 @@
+{
+  "id": "pop_city",
+  "title": "All Pop City Star Path Duties and Routine Duties",
+  "sourceUrl": "https://www.ign.com/wikis/disney-dreamlight-valley/All_Pop_City_Star_Path_Duties_and_Routine_Duties",
+  "duties": [
+    {
+      "id": "pop_city_1",
+      "title": "Uproot Night Thorns.",
+      "howToComplete": "Remove Night Thorns, Splinters of Fate, or Inkies.",
+      "requirement": "3",
+      "tokenReward": 5,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_2",
+      "title": "Start Discussions.",
+      "howToComplete": "Have Daily Discussions with any Villager .",
+      "requirement": "5",
+      "tokenReward": 10,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_3",
+      "title": "Find Gems with your Pickaxe",
+      "howToComplete": "Mine any Gems .",
+      "requirement": "5",
+      "tokenReward": 5,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_4",
+      "title": "Earn 1000 Dreamlight",
+      "howToComplete": "Earn 1,000 Dreamlight. See our handy guide on How to Get Dreamlight Fast to learn more.",
+      "requirement": "1,000",
+      "tokenReward": 10,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_5",
+      "title": "Catch Fish.",
+      "howToComplete": "Catch any Fish .",
+      "requirement": "10",
+      "tokenReward": 15,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_6",
+      "title": "Go blueberry picking!",
+      "howToComplete": "Harvest Blueberries - found on Dazzle Beach or in the Forest of Valor.",
+      "requirement": "50",
+      "tokenReward": 10,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_7",
+      "title": "Open up fresh Memories.",
+      "howToComplete": "Open Yellow, Red, Blue, Green, or Purple memory shards .",
+      "requirement": "1",
+      "tokenReward": 5,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_8",
+      "title": "Hang Out with Scrooge McDuck",
+      "howToComplete": "Hang Out with Scrooge McDuck for 30 minutes. You can always find him in his Store!",
+      "requirement": "30min",
+      "tokenReward": 25,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_9",
+      "title": "Have a short conversation with a long-bearded Villager",
+      "howToComplete": "Have Daily Discussions with Merlin",
+      "requirement": "1",
+      "tokenReward": 5,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_10",
+      "title": "Mine some red gems.",
+      "howToComplete": "Mine Garnet , Ruby , or Spinel .",
+      "requirement": "5",
+      "tokenReward": 15,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_11",
+      "title": "Take a photo with Mickey",
+      "howToComplete": "Take a Photo with Mickey Mouse using your Royal Camera.",
+      "requirement": "1",
+      "tokenReward": 10,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_12",
+      "title": "Pick up Wood materials",
+      "howToComplete": "Pick up Softwood, Hardwood, Dry Wood, Dark Wood, Tropical Wood, or Reclaimed Barn Wood.",
+      "requirement": "50",
+      "tokenReward": 15,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_13",
+      "title": "Buy something from Scrooge McDuck\u2019s Store",
+      "howToComplete": "Buy any item from Scrooge\u2019s Store",
+      "requirement": "5",
+      "tokenReward": 10,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_14",
+      "title": "Pick up red flowers",
+      "howToComplete": "Pick Red Falling Penstemon , Red Daisy , White and Red Hydrangea , Red Passion Lily , Red Bromeliad , Red Bell Flower , or Red Nasturtium",
+      "requirement": "25",
+      "tokenReward": 15,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_15",
+      "title": "Earn 1500 Dreamlight",
+      "howToComplete": "Earn 1,500 Dreamlight. See our handy guide on How to Get Dreamlight Fast to learn more.",
+      "requirement": "1,500",
+      "tokenReward": 10,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_16",
+      "title": "Mine for blue gems",
+      "howToComplete": "Mine Aquamarine, Sapphire, Blue Zircon, Star Sapphire, or Pure Ice .",
+      "requirement": "5",
+      "tokenReward": 10,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_17",
+      "title": "Start Discussions with Goofy",
+      "howToComplete": "Have Daily Discussions with Goofy .",
+      "requirement": "1",
+      "tokenReward": 5,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_18",
+      "title": "Go fish!",
+      "howToComplete": "Catch any Fish .",
+      "requirement": "10",
+      "tokenReward": 25,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_19",
+      "title": "Get crafty!",
+      "howToComplete": "Craft any item at a Crafting Station.",
+      "requirement": "5",
+      "tokenReward": 5,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_20",
+      "title": "Change outfit",
+      "howToComplete": "Change any item of clothing or accessories using the Wardrobe Menu .",
+      "requirement": "1",
+      "tokenReward": 5,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_21",
+      "title": "Open up fresh Memories",
+      "howToComplete": "Open Yellow, Red, Blue, Green, or Purple memory shards .",
+      "requirement": "3",
+      "tokenReward": 10,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_22",
+      "title": "Uproot Night Thorns",
+      "howToComplete": "Remove Night Thorns, Splinters of Fate, or Inkies.",
+      "requirement": "10",
+      "tokenReward": 15,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_23",
+      "title": "Harvest Corn",
+      "howToComplete": "Harvest Corn . Corn Seeds can be purchased at Goofy\u2019s Stall on Dazzle Beach.",
+      "requirement": "20",
+      "tokenReward": 10,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_24",
+      "title": "Craft some fabric",
+      "howToComplete": "Craft Fabric at a Crafting Station. 1 Fabric is made using 5 Cotton.",
+      "requirement": "5",
+      "tokenReward": 10,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_25",
+      "title": "Spend time with Donald",
+      "howToComplete": "Hang Out with Donald Duck for 10 minutes.",
+      "requirement": "10",
+      "tokenReward": 5,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_26",
+      "title": "Sell any Fish",
+      "howToComplete": "Sell Fish at any of Goofy\u2019s Stalls.",
+      "requirement": "15",
+      "tokenReward": 15,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_27",
+      "title": "Pet your Animal Companion",
+      "howToComplete": "Pet any Companion . Equip Companions via the Wardrobe Menu to pet them!",
+      "requirement": "5",
+      "tokenReward": 5,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_28",
+      "title": "Finish some Dreamlight Duties",
+      "howToComplete": "Complete Dreamlight Duties, Mist Duties, or Storybook Vale Duties .",
+      "requirement": "10",
+      "tokenReward": 15,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_29",
+      "title": "Whip up a 2-star meal",
+      "howToComplete": "Cook 2-star Meals",
+      "requirement": "3",
+      "tokenReward": 5,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_30",
+      "title": "Mine for purple gems",
+      "howToComplete": "Mine Amethyst or Alexandrite .",
+      "requirement": "5",
+      "tokenReward": 20,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_31",
+      "title": "Chat with Mickey Mouse",
+      "howToComplete": "Have Daily Discussions with Mickey Mouse .",
+      "requirement": "1",
+      "tokenReward": 5,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_32",
+      "title": "Pick up Mushrooms",
+      "howToComplete": "Pick Mushrooms .",
+      "requirement": "20",
+      "tokenReward": 10,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_33",
+      "title": "Craft any materials",
+      "howToComplete": "Craft any material at a Crafting Station.",
+      "requirement": "10",
+      "tokenReward": 10,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_34",
+      "title": "Make conversation with a very speedy princess",
+      "howToComplete": "Have Daily Discussions with Vanellope von Schweetz .",
+      "requirement": "1",
+      "tokenReward": 10,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_35",
+      "title": "Cook meals with Tomatoes",
+      "howToComplete": "Cook any Recipes involving Tomato . An easy option is making Tomato Soup with 1 Tomato!",
+      "requirement": "5",
+      "tokenReward": 10,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_36",
+      "title": "Catch fish in gold ripples",
+      "howToComplete": "Catch any Fish or Seafood in gold ripples in any biome.",
+      "requirement": "5",
+      "tokenReward": 50,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_37",
+      "title": "Sell items",
+      "howToComplete": "Sell any items at any of Goofy\u2019s Stalls",
+      "requirement": "100",
+      "tokenReward": 25,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_38",
+      "title": "Hang out with Daisy",
+      "howToComplete": "Hang Out with Daisy Duck for 30 minutes.",
+      "requirement": "30min",
+      "tokenReward": 30,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_39",
+      "title": "Gain 15000 Star Coins",
+      "howToComplete": "Earn 15,000 Star Coins. See our guide on How to Earn Star Coins Fast for more information.",
+      "requirement": "15,000",
+      "tokenReward": 10,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_40",
+      "title": "Finish some Dreamlight Duties",
+      "howToComplete": "Complete Dreamlight Duties, Mist Duties, or Storybook Vale Duties",
+      "requirement": "3",
+      "tokenReward": 10,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_41",
+      "title": "Give Mickey & Friends their favorite gifts",
+      "howToComplete": "Give Favorite Gifts to Mickey Mouse , Minnie Mouse , Donald Duck , Daisy Duck , Scrooge McDuck , or Goofy .",
+      "requirement": "5",
+      "tokenReward": 25,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_42",
+      "title": "Whip up a 3-star meal",
+      "howToComplete": "Cook any 3-star meal .",
+      "requirement": "3",
+      "tokenReward": 15,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_43",
+      "title": "Vote in DreamSnaps",
+      "howToComplete": "Vote in a DreamSnaps contest .",
+      "requirement": "5",
+      "tokenReward": 5,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_44",
+      "title": "Sell seaweed",
+      "howToComplete": "Sell Seaweed at any of Goofy\u2019s Stalls. You can catch Seaweed in open water in any Biome.",
+      "requirement": "10",
+      "tokenReward": 10,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_45",
+      "title": "Equip a Level 2 Critter Companion",
+      "howToComplete": "Equip any Level 2 Companion using the Wardrobe Menu.",
+      "requirement": "1",
+      "tokenReward": 30,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_46",
+      "title": "Cook a fairly fancy appetizer",
+      "howToComplete": "Cook any 4-star Appetizer .",
+      "requirement": "3",
+      "tokenReward": 10,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_47",
+      "title": "Craft a Mannequin",
+      "howToComplete": "Craft any Mannequin at a Crafting Station.",
+      "requirement": "1",
+      "tokenReward": 10,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_48",
+      "title": "Craft some Miracle Pickaxe Polish",
+      "howToComplete": "Craft a Miracle Pickaxe Polish or Even More Miraculous Pickaxe Polish .",
+      "requirement": "1",
+      "tokenReward": 25,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_49",
+      "title": "Cook a fairly fancy dessert",
+      "howToComplete": "Cook any 4-star Dessert .",
+      "requirement": "3",
+      "tokenReward": 10,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_50",
+      "title": "Whip up a 5-star Dessert",
+      "howToComplete": "Cook any 5-star Dessert .",
+      "requirement": "5",
+      "tokenReward": 20,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_51",
+      "title": "Craft Paths",
+      "howToComplete": "Craft any Path item at a Crafting Station.",
+      "requirement": "100",
+      "tokenReward": 15,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_52",
+      "title": "Submit an entry to DreamSnaps",
+      "howToComplete": "Submit a photo to a DreamSnaps contest",
+      "requirement": "1",
+      "tokenReward": 15,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_53",
+      "title": "Fish in the Forest of Valor",
+      "howToComplete": "Go fishing in the Forest of Valor",
+      "requirement": "10",
+      "tokenReward": 10,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_54",
+      "title": "Cook 5-star Meals",
+      "howToComplete": "Cook any 5-star Meal .",
+      "requirement": "5",
+      "tokenReward": 20,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_55",
+      "title": "Craft a Miracle Growth Elixir",
+      "howToComplete": "Craft Miracle Growth Elixir or Even More Miraculous Growth Elixir .",
+      "requirement": "1",
+      "tokenReward": 25,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_56",
+      "title": "Harvest any Fruits or Veggies",
+      "howToComplete": "Harvest any Fruits or Vegetables.",
+      "requirement": "50",
+      "tokenReward": 15,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_57",
+      "title": "Cook a nearly perfect appetizer",
+      "howToComplete": "Cook any 4-star Appetizer .",
+      "requirement": "3",
+      "tokenReward": 15,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_58",
+      "title": "Feed the Raccoons their favorite food",
+      "howToComplete": "Feed Blueberries to the Raccoons in the Forest of Valor.",
+      "requirement": "5",
+      "tokenReward": 25,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_59",
+      "title": "Craft some Miracle Fishing Bait",
+      "howToComplete": "Craft Miracle Fishing Bait or Even More Miraculous Fishing Bait .",
+      "requirement": "1",
+      "tokenReward": 25,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_60",
+      "title": "Cook a nearly perfect dessert",
+      "howToComplete": "Cook any 4-star Dessert .",
+      "requirement": "3",
+      "tokenReward": 15,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_61",
+      "title": "Craft any Balloon Arch",
+      "howToComplete": "Craft any Balloon Arch at a Crafting Station.",
+      "requirement": "1",
+      "tokenReward": 10,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_62",
+      "title": "Harvest an energetic bean",
+      "howToComplete": "Harvest Coffee Beans in the Glade of Trust.",
+      "requirement": "50",
+      "tokenReward": 15,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_63",
+      "title": "Whip up some 4-star meals",
+      "howToComplete": "Cook any 4-star meals",
+      "requirement": "5",
+      "tokenReward": 30,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_64",
+      "title": "Craft Bricks",
+      "howToComplete": "Craft Bricks at any Crafting Station. 1 Brick is crafted using 5 Clay and 1 Coal Ore.",
+      "requirement": "50",
+      "tokenReward": 15,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_65",
+      "title": "Unlock Wreck-it Ralph",
+      "howToComplete": "Unlock Ralph as a Villager.",
+      "requirement": "1",
+      "tokenReward": 100,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_66",
+      "title": "Craft a DJ Booth Rig to liven up your next celebration",
+      "howToComplete": "Craft a DJ Booth Rig at any Crafting Station.",
+      "requirement": "1",
+      "tokenReward": 30,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_67",
+      "title": "Build up to level 2 your friendship with a wrecking Villager",
+      "howToComplete": "Reach Friendship Level 2 with Ralph .",
+      "requirement": "1",
+      "tokenReward": 50,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_68",
+      "title": "Sell green veggies",
+      "howToComplete": "Sell any Green Vegetables at Goofy\u2019s Stall. Green Vegetables include Asparagus, Cucumber, Leek, Lettuce, Okra, and Spinach.",
+      "requirement": "50",
+      "tokenReward": 15,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_69",
+      "title": "Mine for square gems",
+      "howToComplete": "Mine any Square Gem : Amethyst, Emerald, Ruby, Sapphire, Topaz, Spinel.",
+      "requirement": "10",
+      "tokenReward": 15,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_70",
+      "title": "Chat with a demolition expert",
+      "howToComplete": "Have Daily Discussions with Ralph .",
+      "requirement": "1",
+      "tokenReward": 25,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_71",
+      "title": "Craft a potion you can really \u201cdig.\u201d",
+      "howToComplete": "Craft Miracle Shovel Varnish or Even More Miraculous Shovel Varnish . (This task is currently bugged. Currently only Even More Miraculous Shovel Varnish will count. This may be updated later.)",
+      "requirement": "1",
+      "tokenReward": 25,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_72",
+      "title": "Hang out with a demolition expert",
+      "howToComplete": "Hang out with Ralph for 45 minutes.",
+      "requirement": "45",
+      "tokenReward": 100,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_73",
+      "title": "Hang out with a glitchy Villager",
+      "howToComplete": "Hang out with Vanellope von Schweetz for 15 minutes.",
+      "requirement": "15",
+      "tokenReward": 25,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_74",
+      "title": "Mine for gems",
+      "howToComplete": "Mine any Gems .",
+      "requirement": "20",
+      "tokenReward": 25,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_75",
+      "title": "Give a speedy and sugary princess her favorite gifts",
+      "howToComplete": "Give Favorite Gifts to Vanellope von Schweetz .",
+      "requirement": "1",
+      "tokenReward": 35,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_76",
+      "title": "Mine for white gems",
+      "howToComplete": "Mine Diamonds or Opals",
+      "requirement": "5",
+      "tokenReward": 30,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_77",
+      "title": "Give a gamified Villager his favorite gifts",
+      "howToComplete": "Give Favorite Gifts to Ralph.",
+      "requirement": "1",
+      "tokenReward": 25,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_78",
+      "title": "Finish some Dreamlight Duties",
+      "howToComplete": "Complete Dreamlight Duties, Mist Duties, or Storybook Vale Duties .",
+      "requirement": "10",
+      "tokenReward": 25,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_79",
+      "title": "Open up fresh Memories",
+      "howToComplete": "Open Yellow, Red, Blue, Green, or Purple memory shards .",
+      "requirement": "5",
+      "tokenReward": 15,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_80",
+      "title": "Mine for an orange gem",
+      "howToComplete": "Mine Citrine or Evergems .",
+      "requirement": "5",
+      "tokenReward": 15,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_81",
+      "title": "Prepare Tekka Makis.",
+      "howToComplete": "Cook Tekka Maki .",
+      "requirement": "5",
+      "tokenReward": 15,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_82",
+      "title": "Take Photo: Neon Koi Lantern",
+      "howToComplete": "Take a photo of your Neon Koi Lantern .",
+      "requirement": "1",
+      "tokenReward": 30,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_83",
+      "title": "Earn 5000 Dreamlight",
+      "howToComplete": "Earn 5,000 Dreamlight. See our handy guide on How to Get Dreamlight Fast to learn more.",
+      "requirement": "5,000",
+      "tokenReward": 50,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_84",
+      "title": "Earn 30000 Star Coins",
+      "howToComplete": "Earn 30,000 Star Coins. See our guide on How to Earn Star Coins Fast for more information.",
+      "requirement": "30,000",
+      "tokenReward": 15,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_85",
+      "title": "Craft large miraculous elixirs",
+      "howToComplete": "Craft Even More Miraculous Pickaxe Polish, Fishing Bait, Shovel Varnish, or Growth Elixir .",
+      "requirement": "1",
+      "tokenReward": 25,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_86",
+      "title": "Vote in a dreamy contest in the Valleyverse",
+      "howToComplete": "Vote in a DreamSnaps contest .",
+      "requirement": "15",
+      "tokenReward": 30,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_87",
+      "title": "Tackle Boutique Challenges with Daisy",
+      "howToComplete": "Complete a challenge at Daisy\u2019s Boutique .",
+      "requirement": "1",
+      "tokenReward": 25,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_88",
+      "title": "Mine for something shiny",
+      "howToComplete": "Mine any Shiny Gems .",
+      "requirement": "10",
+      "tokenReward": 10,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_89",
+      "title": "Give a gamified Villager his favorite gifts",
+      "howToComplete": "Give Favorite Gifts to Ralph",
+      "requirement": "1",
+      "tokenReward": 30,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_90",
+      "title": "Hang Out with Mickey & Friends",
+      "howToComplete": "Hang Out with Mickey Mouse , Minnie Mouse , Donald Duck , Daisy Duck , Scrooge McDuck , or Goofy for 30 minutes.",
+      "requirement": "30min",
+      "tokenReward": 30,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_91",
+      "title": "Hang out with any Villager",
+      "howToComplete": "Hang Out with any Villager for 30 minutes.",
+      "requirement": "30min",
+      "tokenReward": 30,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_92",
+      "title": "Open some Memories",
+      "howToComplete": "Open Yellow, Red, Blue, Green, or Purple memory shards .",
+      "requirement": "5",
+      "tokenReward": 50,
+      "section": "All Pop City Star Path Duties",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_93",
+      "title": "Talk to the President of Sugar Rush",
+      "howToComplete": "Have Daily Discussions with Vanellope von Schweetz",
+      "requirement": "1",
+      "tokenReward": 25,
+      "section": "Week 1: Candy Rush (7/29/26 - 8/5/26)",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_94",
+      "title": "Cook some Candy",
+      "howToComplete": "Cook Candy . Candy is made using 1 of any Sweet ingredient.",
+      "requirement": "25",
+      "tokenReward": 25,
+      "section": "Week 1: Candy Rush (7/29/26 - 8/5/26)",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_95",
+      "title": "Craft Deluxe Sugar Cookie Pavement",
+      "howToComplete": "Craft Sugar Cookie Pavement or Deluxe Sugar Cookie Pavement at a Crafting Station. You can use the Candy you crafted in the previous step to do this, as 4 Pavement is made from 2 Candy!",
+      "requirement": "50",
+      "tokenReward": 50,
+      "section": "Week 1: Candy Rush (7/29/26 - 8/5/26)",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_96",
+      "title": "Hang out with a glitchy Villager",
+      "howToComplete": "Hang Out with Vanellope von Schweetz for 25 minutes",
+      "requirement": "25",
+      "tokenReward": 25,
+      "section": "Week 2: Got to go FAST! (8/5/26 - 8/11/26)",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_97",
+      "title": "Feed the Raccoons their favorite food",
+      "howToComplete": "Feed Blueberries to the Raccoons in the Forest of Valor",
+      "requirement": "5",
+      "tokenReward": 25,
+      "section": "Week 2: Got to go FAST! (8/5/26 - 8/11/26)",
+      "isCompleted": false,
+      "notes": ""
+    },
+    {
+      "id": "pop_city_98",
+      "title": "Picture This: Neon CD Demo Player",
+      "howToComplete": "Take a photo of your Neon CD Demo Player",
+      "requirement": "1",
+      "tokenReward": 50,
+      "section": "Week 2: Got to go FAST! (8/5/26 - 8/11/26)",
+      "isCompleted": false,
+      "notes": ""
+    }
+  ],
+  "lastUpdated": 1728115200000
+}

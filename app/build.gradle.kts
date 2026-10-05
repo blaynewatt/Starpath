@@ -5,10 +5,10 @@ plugins {
 }
 
 android {
-    namespace = "com.example.starpathtracker"
+    namespace = "net.syserr.starpathtracker"
     compileSdk = 36
     defaultConfig {
-        applicationId = "com.example.starpathtracker"
+        applicationId = "net.syserr.starpathtracker"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

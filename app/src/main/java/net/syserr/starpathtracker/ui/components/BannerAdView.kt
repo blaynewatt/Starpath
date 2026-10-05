@@ -8,9 +8,12 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.viewinterop.AndroidView
+import android.util.Log
+import com.google.android.gms.ads.AdListener
 import com.google.android.gms.ads.AdRequest
 import com.google.android.gms.ads.AdSize
 import com.google.android.gms.ads.AdView
+import com.google.android.gms.ads.LoadAdError
 import net.syserr.starpathtracker.theme.CelestialSurface
 
 @Composable
@@ -31,6 +34,14 @@ fun BannerAdView(
                 AdView(context).apply {
                     setAdSize(AdSize.BANNER)
                     this.adUnitId = adUnitId
+                    adListener = object : AdListener() {
+                        override fun onAdLoaded() {
+                            Log.d("BannerAdView", "Ad successfully loaded!")
+                        }
+                        override fun onAdFailedToLoad(error: LoadAdError) {
+                            Log.w("BannerAdView", "Ad failed to load: code=${error.code}, message=${error.message}")
+                        }
+                    }
                     loadAd(AdRequest.Builder().build())
                 }
             }

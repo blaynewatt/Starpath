@@ -46,3 +46,9 @@ An Android checklist application designed for Disney Dreamlight Valley players t
    ```bash
    ./gradlew installDebug
    ```
+
+---
+
+## Privacy Policy
+
+Star Path Tracker respects user privacy: zero personal data is collected, stored, or transmitted. Read the full [Privacy Policy](PRIVACY_POLICY.md).
